@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rent>
+    <RentFirmName>Ast</RentFirmName>
+    <RentedVehicles>
+      <Vehicle>
+        <CarCategory>Cabriolet</CarCategory>
+        <Car>
+          <ProductionCompany>ar</ProductionCompany>
+          <Model>str</Model>
+          <Price>2</Price>
+          <ProductionYear>1960</ProductionYear>
+        </Car>
+        <RentStartDate>31.05.2020</RentStartDate>
+        <RentPrice>4</RentPrice>
+        <Duration>8</Duration>
+        <CarNumber>AD2345AX</CarNumber>
+      </Vehicle>
+      <Vehicle>
+        <CarCategory>Cabriolet</CarCategory>
+        <Car>
+          <ProductionCompany>ff</ProductionCompany>
+          <Model>222</Model>
+          <Price>2</Price>
+          <ProductionYear>1960</ProductionYear>
+        </Car>
+        <RentStartDate>31.05.2020</RentStartDate>
+        <RentPrice>1</RentPrice>
+        <Duration>5</Duration>
+        <CarNumber>SA1234SS</CarNumber>
+      </Vehicle>
+    </RentedVehicles>
+  </Rent>
+  <Rent>
+    <RentFirmName>ASSS</RentFirmName>
+    <RentedVehicles />
+  </Rent>
+</ArrayOfRent>
